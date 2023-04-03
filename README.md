@@ -5,9 +5,9 @@
 ## I'm a Computer Science and Math Student  
 
 - 😄 I go by she/her pronouns :)
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 I’m currently working on Minecraft mods and Artificial Intelligence.
+- 📚 I’m currently learning a bunch of new skills all at once (whoops) 😅
+- 💪🏼 Future Goals: Be able to predict tournaments with AI, change the world with inclusive, diverse technologies.
 - ⚡ Fun fact: I play a plethora of instruments 🎻
 
 ---
@@ -20,12 +20,10 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact me 📝
 
-[<img align="left" alt="shmoee.vercel.app" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+Discord: shmoe#1746
 
 <br />
 
@@ -63,7 +61,7 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+⭐️ From [Bgstatic](https://github.com/Bgstatic)
 
 ---
 
