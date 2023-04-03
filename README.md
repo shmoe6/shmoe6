@@ -16,13 +16,13 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.shmoe6.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/wpt14pdyn88igyetrpdosc4fr?si=5da0092fe0c748cd))
+[![Spotify](https://novatorem-red-chi.vercel.app/api/spotify)](https://open.spotify.com/user/wpt14pdyn88igyetrpdosc4fr?si=4169430ce9be42d9)
 
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+### Contact me 📝
 
 [<img align="left" alt="shmoee.vercel.app" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
