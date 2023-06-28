@@ -23,7 +23,7 @@
 
 ### Contact me 📝
 
-Discord: shmoe#1746
+Discord: musicallyanna
 
 <br />
 
