@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Math Student  
+## I'm an Electrical and Computer Engineering student!
 
 - 😄 I go by she/her pronouns :)
-- 👨‍💻 I’m currently working on Minecraft mods and Artificial Intelligence.
+- 👨‍💻 I’m currently working on Discord bots and data structures!
 - 📚 I’m currently learning a bunch of new skills all at once (whoops) 😅
-- 💪🏼 Future Goals: Be able to predict tournaments with AI, change the world with inclusive, diverse technologies.
+- 💪🏼 Future Goals: Develop a Pokemon game with complex trainer AI, change the world with inclusive, diverse technologies.
 - ⚡ Fun fact: I play a plethora of instruments 🎻
 
 ---
