@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm an Electrical and Computer Engineering student!
+## I'm an Electrical and Computer Science Engineering student!
 
 - 😄 I go by she/her pronouns :)
 - 👨‍💻 I’m currently working on Discord bots and data structures!
