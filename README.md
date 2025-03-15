@@ -2,14 +2,14 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm an Electrical and Computer Science Engineering student!
+## I'm an Electrical Engineering student!
 
 - 😄 I go by she/her pronouns :)
-- 👨‍💻 I’m currently working on Discord bots and data structures!
-- 📚 I’m currently learning a bunch of new skills all at once (whoops) 😅
+- 👨‍💻 I’m currently working on a Pokemon stat optimizer and a 10 channel equalizer!
+- 📚 I love learning new skills! 😅
 - 💪🏼 Future Goals: Develop a Pokemon game with complex trainer AI, change the world with inclusive, diverse technologies.
 - ⚡ Fun fact: I play a plethora of instruments 🎻
-
+- ⚡ Fun fact 2: I am an official judge for Play! Pokemon !!!!
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
